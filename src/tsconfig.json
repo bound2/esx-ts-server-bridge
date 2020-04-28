@@ -5,6 +5,10 @@
         "target": "es2017",
         "declaration": true,
         "moduleResolution": "node",
+        "types": [
+            "@citizenfx/server",
+            "@citizenfx/client"
+        ],
         "experimentalDecorators": true
     },
     "include": [

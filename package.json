@@ -18,6 +18,9 @@
         "prepublish": "tsc -b src"
     },
     "dependencies": {
+        "@citizenfx/client": "^1.0.2410-1",
+        "@citizenfx/server": "^1.0.2410-1",
+        "fivem-ts-arg-validator": "^1.0.1",
         "reflect-metadata": "^0.1.13"
     },
     "devDependencies": {

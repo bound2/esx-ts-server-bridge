@@ -1,13 +1,13 @@
 {
-    "name": "fivem-ts-esx-bridge",
+    "name": "esx-ts-server-bridge",
     "version": "1.0.0",
-    "description": "TypeScript bridge for ESX communications",
+    "description": "TypeScript bridge for ESX server communications",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "author": "bound2 <9380102+bound2@users.noreply.github.com>",
     "repository": {
         "type": "git",
-        "url": "https://github.com/bound2/fivem-ts-esx-bridge"
+        "url": "https://github.com/bound2/esx-ts-server-bridge"
     },
     "license": "MIT",
     "private": false,

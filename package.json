@@ -1,6 +1,6 @@
 {
     "name": "esx-ts-server-bridge",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "TypeScript bridge for ESX server communications",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -19,7 +19,7 @@
     },
     "dependencies": {
         "@citizenfx/server": "^1.0.2410-1",
-        "fivem-ts-arg-validator": "^1.0.1"
+        "fivem-ts-arg-validator": "^1.0.3"
     },
     "devDependencies": {
         "@types/chai": "^4.2.11",
